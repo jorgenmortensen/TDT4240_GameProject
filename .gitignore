@@ -107,3 +107,16 @@ local.properties
 android/gen/
 .idea/workspace.xml
 *.iml
+
+## Gradle
+
+/local.properties
+.gradle/
+gradle-app.setting
+/build/
+/android/build/
+/core/build/
+/desktop/build/
+/html/build/
+/ios/build/
+/ios-moe/build/
