@@ -14,6 +14,7 @@ public class ProgArkGame extends ApplicationAdapter {
 	public void create () {
 		batch = new SpriteBatch();
 		img = new Texture("badlogic.jpg");
+		//  Can anyone else see this?
 	}
 
 	@Override
