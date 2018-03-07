@@ -101,3 +101,8 @@ Thumbs.db
 
 ## local properties
 local.properties
+.idea/compiler.xml
+.idea/copyright/
+.idea/modules/
+android/gen/
+.idea/workspace.xml
