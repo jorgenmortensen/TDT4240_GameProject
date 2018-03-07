@@ -107,6 +107,7 @@ local.properties
 android/gen/
 .idea/workspace.xml
 *.iml
+.idea
 
 ## Gradle
 
