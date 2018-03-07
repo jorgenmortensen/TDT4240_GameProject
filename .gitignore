@@ -106,3 +106,4 @@ local.properties
 .idea/modules/
 android/gen/
 .idea/workspace.xml
+*.iml
