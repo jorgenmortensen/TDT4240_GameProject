@@ -3,15 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TDT4240_GameProject.iml" filepath="$PROJECT_DIR$/TDT4240_GameProject.iml" />
-      <module fileurl="file://C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\TDT4240_GameProject.iml" filepath="C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\TDT4240_GameProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/android/android.iml" filepath="$PROJECT_DIR$/android/android.iml" />
-      <module fileurl="file://C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\android\android.iml" filepath="C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\android\android.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
-      <module fileurl="file://C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\core\core.iml" filepath="C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\core\core.iml" />
       <module fileurl="file://$PROJECT_DIR$/desktop/desktop.iml" filepath="$PROJECT_DIR$/desktop/desktop.iml" />
-      <module fileurl="file://C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\desktop\desktop.iml" filepath="C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\desktop\desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/html/html.iml" filepath="$PROJECT_DIR$/html/html.iml" />
-      <module fileurl="file://C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\html\html.iml" filepath="C:\Users\Public\Documents\AndroidStudioProjects\TDT4240_GameProject\.idea\modules\html\html.iml" />
     </modules>
   </component>
 </project>
